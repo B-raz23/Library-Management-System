@@ -1,0 +1,18 @@
+			 CENTRAL LIBRARY INVOICE 
+			   ( Rayale-09, Kavre ) 
+
+
+Time: 22:47:32					    Date: 2021-09-09
+
+		        Name: BIRAJ SAPKOTA
+
+
+---------------------------------------------------------------------
+Book ID	        Book Name		 Author		       Price 
+---------------------------------------------------------------------
+   1		Harry Potter		JK Rowling		$2
+   6		Neverwhere		Neil Gaiman		$2.5
+
+---------------------------------------------------------------------
+
+						  Grand Total: $4.5

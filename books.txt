@@ -1,0 +1,7 @@
+Harry Potter,JK Rowling,76,$2
+Start With Why,Simon Sinek,18,$1.5
+Hold Still,Nina LaCour,18,$2.25
+Intensity,Dean Koontz,19,$1
+The Pact,Jodi Picoult,17,$1.75
+Neverwhere,Neil Gaiman,54,$2.5
+Moonlight,Ann Hunter,64,$1.30
